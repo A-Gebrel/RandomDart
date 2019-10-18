@@ -1,9 +1,10 @@
 # Random Dart
 
-![GitHub stars](https://img.shields.io/github/stars/SirAnxiousALot/RandomDart?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/SirAnxiousALot/RandomDart?style=for-the-badge)
+[![GitHub stars](https://img.shields.io/github/stars/SirAnxiousALot/RandomDart?style=for-the-badge)](#)
+[![GitHub forks](https://img.shields.io/github/forks/SirAnxiousALot/RandomDart?style=for-the-badge)](#)
+[![GitHub watchers](https://img.shields.io/github/watchers/SirAnxiousALot/RandomDart?style=for-the-badge)](#)
 
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/SirAnxiousALot/RandomDart?style=for-the-badge)
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/SirAnxiousALot/RandomDart?style=for-the-badge)](#)
 
 Basically, where I make projects for fun and throw them to never see the light of day again.
 Who knows, Maybe one day I'm going to need one of those in a project :shrug:
@@ -37,4 +38,4 @@ I highly doubt anyone would waste his time on most of my scripts but I usually d
 I always welcome any constructive criticism though, don't be shy :)
 
 ## License
-![GitHub](https://img.shields.io/github/license/SirAnxiousALot/RandomDart?style=for-the-badge)
+[![GitHub](https://img.shields.io/github/license/SirAnxiousALot/RandomDart?style=for-the-badge)](https://github.com/SirAnxiousALot/RandomDart/blob/master/LICENSE.md)
